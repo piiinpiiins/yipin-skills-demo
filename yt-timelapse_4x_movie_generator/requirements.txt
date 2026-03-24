@@ -1,0 +1,5 @@
+# No Python dependencies required
+# This skill uses ffmpeg which should be installed via system package manager:
+# - macOS: brew install ffmpeg
+# - Linux: apt-get install ffmpeg or yum install ffmpeg
+# - Windows: Download from https://ffmpeg.org/download.html
